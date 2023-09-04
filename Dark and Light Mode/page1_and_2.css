@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+h1{
+    color: red;
+    margin-bottom: -30px;
+}
+
+p {
+    font-size: xx-large;
+}
+
+input {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: blue;
+    font-size: larger;
+    text-decoration: none;
+}
